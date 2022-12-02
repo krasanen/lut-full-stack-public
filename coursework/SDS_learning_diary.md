@@ -32,3 +32,12 @@ https://zmengames.com into using MERN stack. It could be the final exercise of t
 Asked from the course directors if it is ok, and it was. Everything else than the actual website
 will be public on this repository.
 
+Started studying MERN stack with the youtube author that also videoed the MEAN stack course. Git init
+as first step. Made a simple MERN barebone stack to be used in the project. zcarRoutes will be used
+to post and get laptimes of the game. Added middleware to router in order to see the request urls.
+
+As the game database is MySQL, used PHPMySQLAdmin to export MySQL database to JSON format, knowing
+that MongoDB is almost like JSON (BSON vs. JSON). It was correct assumption as MongoDB compass had
+directly tool to import JSON data into databases collections. No there is 322MB of real players car
+racing data and 7.78MB of pinballing data in the MongoDB zmengames database.
+Uploaded barebone mern-backend to private repository in Github. Next step will be to connect to MongoDB.
