@@ -6,6 +6,7 @@ Also games Z-Pinball and Z-Car-Racing will commit their highscores to the MongoD
 ### What is this repository for? ###
 
 * Public part of LUT full stack course for evaluation
+* ZMenGames website uses static webpage, PHP and MySQL, now it is time to get rid of those along with other technical dinosaurs.
 * Version: 1.0
 
 ### How do I get set up? ###
