@@ -43,3 +43,9 @@ racing data and 7.78MB of pinballing data in the MongoDB zmengames database.
 Uploaded barebone mern-backend to private repository in Github. Added some route handling and
 error handling. Next step will be to connect to MongoDB.
 
+**3.12.2022**
+Added mongodb connection, and created controller and model for zcar-racing collection. ZCar sends
+params as query parameters, now zcarController in backend returns laps based on query parameters, all imported
+data seems to come through fine. ZCar uses android webview to show laptimes, need to fiqure out 
+how to output full web page with laptimes for the game. Sending laptimes with ghost lap data from the
+game now works through setLaptimes method in zcarController.
