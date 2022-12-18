@@ -49,3 +49,14 @@ params as query parameters, now zcarController in backend returns laps based on 
 data seems to come through fine. ZCar uses android webview to show laptimes, need to fiqure out 
 how to output full web page with laptimes for the game. Sending laptimes with ghost lap data from the
 game now works through setLaptimes method in zcarController.
+
+**9.12.2022**
+Learn about JWT JSON Web Token authentication through the video. Added Login and Register 
+functionality into backend. Passwords are hashed with bcrypt. Tested them with Postman, 
+now it is possible to register, login and use jwt token to authenticate user.
+
+**12.12.2022**
+Started frontend page. Simple login and registration page with react redux. Not sure yet 
+if zmengames website will need a registration. Maybe just leave it for future usage by just leaving
+the header component containing the login and registration out of the final page. 
+
