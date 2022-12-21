@@ -60,3 +60,8 @@ Started frontend page. Simple login and registration page with react redux. Not 
 if zmengames website will need a registration. Maybe just leave it for future usage by just leaving
 the header component containing the login and registration out of the final page. 
 
+**21.12.2022**
+Finished registration and login functionality. Maybe login could be used to provision Z-Pinball game,
+it has shaders and some other components (texts) which can be provisioned to the game to be used on next start.
+Anyway need to narrow down the scope for the course as ideas seem to rise when new things are learned.
+Next, focus should be on serving laptimes page for Z-Car Racing.
